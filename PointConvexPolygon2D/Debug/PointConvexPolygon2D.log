@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level6 secondhalf\physics-point-convexpolygon-2d-mastervs2019\pointconvexpolygon2d\main.cpp(478): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PointConvexPolygon2D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level6 secondHalf\physics-point-convexPolygon-2D-masterVS2019\PointConvexPolygon2D\Debug\PointConvexPolygon2D.exe
